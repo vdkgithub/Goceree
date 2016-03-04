@@ -1,0 +1,9 @@
+
+{
+  "Title": "Goceree",
+  "Version": "v1.2",
+  "AppSetting": {
+      "WebApi": "http://192.168.1.42:85",
+      "CDN": "http://192.168.1.42:86"
+  }
+}
